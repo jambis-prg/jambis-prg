@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por jogos. Tenho experiência em diversas lingua
 
 <div align="center">
   <a href="https://github.com/jambis-prg/github-readme-stats">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jambis&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jambis&theme=tokyonight"/>
   </a>
 </div>
 
