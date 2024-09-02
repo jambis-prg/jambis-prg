@@ -33,4 +33,6 @@ Sou um desenvolvedor apaixonado por jogos. Tenho experiência em diversas lingua
 
 ## Projetos Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jambis-prg&repo=DominoGame&theme=tokyonight)](https://github.com/jambis-prg/github-readme-stats)
+<a href="https://github.com/SapoSopa/PintOS-Base_Dev-Tutorial">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jambis-prg&repo=DominoGame&theme=tokyonight&show_owner=true" width="400" height="200" />
+</a>
