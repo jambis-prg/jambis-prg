@@ -13,26 +13,33 @@ Sou um desenvolvedor apaixonado por jogos. Tenho experiência em diversas lingua
 
 ## Minhas Estatísticas
 
-<div align="center">
-  <a href="https://github.com/jambis-prg/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jambis-prg&show_icons=true&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/jambis-prg/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jambis-prg&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/jambis-prg/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jambis&theme=tokyonight"/>
-  </a>
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/jambis-prg/github-readme-stats">
+          <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jambis&theme=tokyonight"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jambis-prg/github-readme-stats">
+          <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jambis-prg&show_icons=true&theme=tokyonight"/>
+        </a>
+        <br/>
+        <a href="https://github.com/jambis-prg/github-readme-stats">
+          <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jambis-prg&layout=compact&langs_count=7&theme=tokyonight"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## Projetos Destacados
 
 <a href="https://github.com/jambis-prg/DominoGame">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=jambis-prg&repo=DominoGame&theme=tokyonight&show_owner=true" width="400" height="200" />
+</a>
+
+<a href="https://github.com/jambis-prg/doom-engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jambis-prg&repo=doom-engine&theme=tokyonight&show_owner=true" width="400" height="200" />
 </a>
