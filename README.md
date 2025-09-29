@@ -18,7 +18,7 @@ Sou um desenvolvedor apaixonado por jogos. Tenho experiência em diversas lingua
     <tr>
       <td>
         <a href="https://github.com/jambis-prg/github-readme-stats">
-          <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jambis&theme=tokyonight"/>
+          <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jambis&theme=tokyonight&langs_count=5"/>
         </a>
       </td>
       <td>
@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por jogos. Tenho experiência em diversas lingua
         </a>
         <br/>
         <a href="https://github.com/jambis-prg/github-readme-stats">
-          <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jambis-prg&layout=compact&langs_count=7&theme=tokyonight"/>
+          <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jambis-prg&layout=compact&langs_count=6&theme=tokyonight"/>
         </a>
       </td>
     </tr>
